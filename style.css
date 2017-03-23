@@ -4,13 +4,15 @@ body{
 }
 
 h1{
-    color: red ;
+    color: white ;
 }
 
 ol {
     width: 35%;
     display: block;
     margin: 0 auto;
+    padding-bottom: 20px;\
+    
 }
 
 #drake {
@@ -20,7 +22,7 @@ font-size: 20px;
 
 #drake li {
     color:white;
-    Text-align: center;
+    Text-align: center;vx 
 }
 
 #taylor {
@@ -65,5 +67,8 @@ background-color:magenta;
 
 #selena {
     background-color:teal;
-    
+}
+
+nav a {
+    text-decoration:none;
 }
